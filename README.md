@@ -16,4 +16,4 @@ This app is to solve world hunger.
 - [x] Finish the app
 - [ ] WAtch a movie
 
-![This is a cat](able-logo.png)
+![This is my ABLE](able-logo.png)
